@@ -20,6 +20,12 @@ cd nestjs-proxy-logger
 yarn install
 ```
 
+## Executando a aplicação
+
+```bash
+yarn start
+```
+
 ## Exemplo de log gerado
 
 ```json
